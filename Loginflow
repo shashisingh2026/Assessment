@@ -1,8 +1,0 @@
-Objective:
-Validate the login functionality of a sample web application.
-Requirements:
-1.Open a browser and navigate to  https://www.saucedemo.com/
-2.Enter the username as "standard_user" and password as "secret_sauce".
-3.Click the Login button.
-4.Verify that the user has successfully logged in by checking for the presence of the products page.
-5.Take a screenshot after a successful login. 
